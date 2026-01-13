@@ -4,7 +4,7 @@ This project analyzes customer shopping behavior using real-world retail data to
 The goal is to convert raw customer data into meaningful business insights using Python, SQL, and Power BI.
 
 
-## 📌 Project Overview
+## Project Overview
 
 Customer behavior plays a critical role in improving sales strategy, marketing decisions, and customer retention.  
 In this project, I explored customer shopping data to answer questions like:
@@ -17,7 +17,7 @@ In this project, I explored customer shopping data to answer questions like:
 The analysis is supported by an interactive Power BI dashboard for clear visualization and decision-making.
 
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Python** (Pandas, NumPy, Matplotlib)
 - **SQL** (data querying & aggregation)
@@ -28,7 +28,7 @@ The analysis is supported by an interactive Power BI dashboard for clear visuali
 
 
 
-## 📊 Power BI Dashboard Highlights
+## Power BI Dashboard Highlights
 
 The dashboard provides a high-level and detailed view of customer behavior:
 
@@ -73,7 +73,7 @@ This project demonstrates how customer data can be used to:
 **Devendra Kumar**  
 B.Tech Student | Data Analytics & Data Science Enthusiast  
 
-🔗 GitHub: https://github.com/DevendraKumar577  
+GitHub: https://github.com/DevendraKumar577  
 
 
 
