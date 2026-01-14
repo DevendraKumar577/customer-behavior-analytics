@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis
+# Customer Shopping Behavior Analytics
 
 This project analyzes customer shopping behavior using real-world retail data to understand purchasing patterns, revenue contribution, and customer segmentation.  
 The goal is to convert raw customer data into meaningful business insights using Python, SQL, and Power BI.
