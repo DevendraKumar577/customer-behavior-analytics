@@ -1,80 +1,144 @@
-# Customer Shopping Behavior Analytics
+# 🛍️ Customer Shopping Behavior Analytics
 
-This project analyzes customer shopping behavior using real-world retail data to understand purchasing patterns, revenue contribution, and customer segmentation.  
-The goal is to convert raw customer data into meaningful business insights using Python, SQL, and Power BI.
+An end-to-end Data Analytics project that analyzes customer purchasing behavior using **Python, SQL, and Power BI**. The project transforms raw retail transaction data into actionable business insights through data cleaning, exploratory data analysis (EDA), SQL queries, and an interactive Power BI dashboard.
 
+---
 
-## Project Overview
+# 📊 Dashboard Preview
 
-Customer behavior plays a critical role in improving sales strategy, marketing decisions, and customer retention.  
-In this project, I explored customer shopping data to answer questions like:
+> *(Add your dashboard screenshot here after uploading it to the `images` folder.)*
 
-- Which product categories generate the most revenue?
-- How does customer behavior vary across age groups?
-- What percentage of customers are subscribed?
-- Which segments contribute the highest sales?
+![Dashboard](images/dashboard.png)
 
-The analysis is supported by an interactive Power BI dashboard for clear visualization and decision-making.
+---
 
+# 🚀 Project Overview
 
-##  Tools & Technologies Used
+This project focuses on understanding customer shopping patterns, revenue trends, subscription behavior, product performance, and payment preferences. It demonstrates the complete analytics workflow from raw data exploration to dashboard development.
 
-- **Python** (Pandas, NumPy, Matplotlib)
-- **SQL** (data querying & aggregation)
-- **Power BI** (interactive dashboard & KPIs)
-- **Jupyter Notebook** (analysis workflow)
-- **Excel / CSV** (raw data source)
+---
 
+# ✨ Key Features
 
+- 📈 Interactive Power BI Dashboard
+- 📊 Revenue Analysis by Product Category
+- 👥 Customer Segmentation
+- 💳 Payment Method Analysis
+- 📦 Subscription Status Analysis
+- 🚚 Shipping Preference Analysis
+- ⭐ Product Rating Analysis
+- 📋 KPI Cards for Business Metrics
+- 🔍 Interactive Filters & Drill-down Analysis
 
+---
 
-## Power BI Dashboard Highlights
+# 📌 Dashboard KPIs
 
-The dashboard provides a high-level and detailed view of customer behavior:
+- 👥 Total Customers
+- 💰 Total Revenue
+- 💵 Average Purchase Amount
+- ⭐ Average Review Rating
 
-- Total number of customers
-- Average purchase amount
-- Average customer rating
-- Revenue & sales by category
-- Sales & revenue by age group
-- Subscription status distribution
-- Interactive filters (Gender, Category, Shipping Type)
+---
 
+# 📊 Dashboard Insights
 
+- 📦 Clothing generated the highest revenue.
+- 💳 PayPal was the most preferred payment method.
+- 🚚 Free Shipping was the most preferred shipping option.
+- ⭐ Footwear received the highest customer ratings.
 
-## Key Insights
+---
 
-- **Clothing** is the highest revenue and sales-contributing category.
-- **Young Adults** generate the maximum revenue among all age groups.
-- A majority of customers are **non-subscribers**, indicating growth potential for subscription plans.
-- Accessories and footwear show consistent mid-level performance.
+# 🛠️ Tech Stack
 
+- Python
+- Pandas
+- NumPy
+- SQL
+- Power BI
+- DAX
+- Power Query
+- Jupyter Notebook
 
-## Business Value
+---
 
-This project demonstrates how customer data can be used to:
+# 📁 Project Structure
 
-- Improve marketing targeting
-- Identify high-value customer segments
-- Optimize product category focus
-- Support data-driven business decisions
+```
+customer-behavior-analytics/
+│
+├── customer_behavior_dashboard.pbix
+├── customer_shopping_analysis.ipynb
+├── customer_shopping_behavior.csv
+├── sql_queries.sql
+├── README.md
+└── images/
+    └── dashboard.png
+```
 
+---
 
-## How to Use This Project
+# 📈 Exploratory Data Analysis
 
-1. Open the Jupyter Notebook to view data cleaning and analysis steps.
-2. Review SQL queries for business-level data extraction.
-3. Open the `.pbix` file in Power BI Desktop to explore the dashboard.
-4. Use filters to interact with customer segments.
+Performed comprehensive EDA to understand:
 
+- Customer demographics
+- Spending behavior
+- Product popularity
+- Review ratings
+- Payment trends
+- Subscription patterns
+- Shipping preferences
 
-## Author
+---
 
-**Devendra Kumar**  
-B.Tech Student | Data Analytics & Data Science Enthusiast  
+# 🗄️ SQL Analysis
 
-GitHub: https://github.com/DevendraKumar577  
+Key SQL analyses include:
 
+- Revenue by Product Category
+- Revenue by Gender
+- Revenue by Age Group
+- Most Preferred Shipping Type
+- Most Used Payment Method
+- Highest Rated Category
+- Customer Purchase Behavior
 
+---
 
+# 📊 Power BI Dashboard
 
+The interactive dashboard provides:
+
+- Dynamic KPI Cards
+- Interactive Filters
+- Revenue Distribution
+- Customer Segmentation
+- Product Insights
+- Payment Insights
+- Shipping Insights
+
+---
+
+# 🎯 Business Value
+
+This dashboard enables businesses to:
+
+- Identify high-performing product categories
+- Understand customer purchasing behavior
+- Optimize shipping strategies
+- Improve marketing campaigns
+- Track revenue performance
+- Support data-driven decision making
+
+---
+
+# 👨‍💻 Author
+
+**Devendra Kumar**
+
+B.Tech | Materials & Metallurgical Engineering  
+MANIT Bhopal
+
+GitHub: https://github.com/DevendraKumar577
