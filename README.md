@@ -6,8 +6,6 @@ An end-to-end Data Analytics project that analyzes customer purchasing behavior 
 
 # 📊 Dashboard Preview
 
-> *(Add your dashboard screenshot here after uploading it to the `images` folder.)*
-
 ![Dashboard](images/dashboard.png)
 
 ---
